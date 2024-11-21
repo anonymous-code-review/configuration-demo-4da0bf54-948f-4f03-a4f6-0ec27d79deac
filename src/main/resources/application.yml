@@ -1,0 +1,23 @@
+test:
+  my-property: "aValue"
+  another-property: "anotherValue"
+  a-list-of-properties:
+    - "value1"
+    - "value2"
+    - "value3"
+  a-map-of-properties:
+    key1: "value1"
+    key2: "value2"
+    key3: "value3"
+  nested-properties:
+    property: "aValue"
+    nested-list:
+      - "value1"
+      - "value2"
+      - "value3"
+    nested-map:
+      key1: "value1"
+      key2: "value2"
+      key3: "value3"
+  map-name-example:
+    a-random-weird-name: "test"
